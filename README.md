@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on UI/UX design and develop for Exam system using ReactJS
 - 🌱 I’m currently learning ASP.NET 5.0, NodeJS
 - 👯 I’m looking to collaborate on MERN Stack Projects
+- 👨‍💻 Take a look at my projects at [github](https://github.com/Ritik2411?tab=repositories)
 - 📫 How to reach me: ritiksharma1756@gmail.com
 
 ### 🛠 &nbsp;Languages and Tools I'm familiar with
