@@ -18,3 +18,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritik2411&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 </a>
 </p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/ritik-sharma-5ab81a211/"><img src="https://img.shields.io/badge/-Ritik Sharma-1877F2?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
