@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/badamnshake">
+<a href="https://github.com/Ritik2411">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritik2411&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 </a>
 </p>
