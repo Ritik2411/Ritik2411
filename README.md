@@ -1,4 +1,4 @@
-### Hi 👋, I'm Ritik
+### <h1 align="center">Hi 👋, I'm Ritik</h1>
 
 <!--
 **Ritik2411/Ritik2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
