@@ -6,7 +6,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🌱 I’m currently learning ASP.NET 5.0, NodeJS
+- 🌱 I’m currently working in ASP.NET 5.0, Angular
 - 👯 I’m looking to collaborate on MERN Stack Projects
 - 👨‍💻 Take a look at my projects at [github](https://github.com/Ritik2411?tab=repositories)
 - 📫 How to reach me: ritiksharma1756@gmail.com
